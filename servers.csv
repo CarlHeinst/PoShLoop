@@ -1,0 +1,4 @@
+ServerName,TemplateName,IP,GW,PortGroup,Vcpu,CoresPerSocket,MemoryGB,OSDriveSize,DataDriveSize,ServerDomain
+shazzfil01,Win_2016,10.X.169.113,10.182.169.1,common|shared|util_2169,2,2,8,60,250,intra.net
+shazzfil02,Win_2016,10.X.169.114,10.182.169.1,common|shared|util_2169,2,2,8,60,250,intra.net
+shazzfil03,Win_2016,10.X.169.115,10.182.169.1,common|shared|util_2169,2,2,8,60,250,intra.net
